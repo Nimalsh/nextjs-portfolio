@@ -40,7 +40,7 @@ const projectsData = [
       "Built a responsive portfolio website using Next.js and Tailwind CSS.",
     image: "/images/projects/5.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/SDilhara19/RADProjectFinal",
+    gitUrl: "https://github.com/Nimalsh/nextjs-portfolio",
   },
   // {
   //   id: 6,
