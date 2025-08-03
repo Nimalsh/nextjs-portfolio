@@ -10,7 +10,7 @@ export async function POST(req) {
   try {
     const data = await resend.emails.send({
       from: fromEmail,
-      to: [email], // or [fromEmail, email] if you want a copy to yourself
+      to: [email],
       subject,
       html: `
         <h1>${subject}</h1>
