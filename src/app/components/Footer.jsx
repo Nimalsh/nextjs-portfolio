@@ -9,8 +9,8 @@ const Footer = () => {
         <Image
           src="/logo.png" // Make sure logo.png is in the public folder
           alt="Logo"
-          width={60}       // ← Small size
-          height={20}
+          width={120}       // ← Small size
+          height={120}
           className="object-contain"
         />
 

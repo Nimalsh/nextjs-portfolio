@@ -31,8 +31,8 @@ const Navbar = () => {
           <Image
             src="/logo.png" // Path must be from the `public` folder
             alt="Logo"
-            width={80}
-            height={5}
+            width={130}
+            height={130}
             className="object-contain"
           />
         </Link>
